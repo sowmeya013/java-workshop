@@ -23,7 +23,7 @@ public class Location {
     public double getLongitude() {
         return longitude;
     }
-
+    
     public String getAddress() {
         return address;
     }
@@ -50,7 +50,7 @@ public class Location {
     public void setPostalCode(String postalCode) {
         this.postalcode = postalCode;
     }
-    public void setContact(String country) {
+    public void setcountry(String country) {
         this.country = country;
     }
 
@@ -67,4 +67,3 @@ public class Location {
     }
 }
  
-
