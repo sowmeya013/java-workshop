@@ -15,10 +15,9 @@ public class Words {
         System.out.println("Number of characters: " + chr.length); 
         
        
-
+    }
 
     
-}
-}
+
 
 }
