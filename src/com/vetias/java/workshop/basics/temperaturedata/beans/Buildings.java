@@ -5,15 +5,13 @@ public class Buildings {
     private String name;
     private double area;
     private int floors;
-
-}
-
-public Building(String name, double area, int floors, LocalDateTime openingHours, LocalDateTime closingHours) {
+    
+    public Building(String name, double area, int floors, LocalDateTime openingHours, LocalDateTime closingHours) {
         this.name = name;
         this.area = area;
         this.floors = floors;
-        this.openingHours = openingHours;
-        this.closingHours = closingHours;
+        this.OpeningHours = openingHours;
+        this.ClosingHours = closingHours;
     }
     public String getName() {
         return name;
