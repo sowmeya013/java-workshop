@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.Reader;
 
-public class CharacterReader {
+public class Charac                                                                    terReader {
     public static void main(String[] args){
         try (BufferedReader reader=new BufferedReader(new FileReader("README.md"))){
         
