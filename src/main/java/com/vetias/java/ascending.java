@@ -1,4 +1,4 @@
-package main.Java.com.vetias.java;
+package com.vetias.java;
 
 import java.util.Arrays;
 

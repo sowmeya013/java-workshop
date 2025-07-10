@@ -1,4 +1,4 @@
-package main.Java.com.vetias.java;
+package main.java.com.vetias.java;
 
 public class arraymark {
     public static void main(String[]args){

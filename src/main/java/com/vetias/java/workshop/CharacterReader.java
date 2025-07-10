@@ -1,12 +1,12 @@
-package main.Java.com.vetias.java.workshop;
+package com.vetias.java.workshop;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.Reader;
 
-public class Charac                                                                    terReader {
-    public static void main(String[] args){
+public class CharacterReader {
+    public static void main (String[] args) {
         try (BufferedReader reader=new BufferedReader(new FileReader("README.md"))){
         
             String line;
@@ -22,5 +22,5 @@ public class Charac                                                             
         }
         
     }
-
+}
 
