@@ -1,4 +1,4 @@
-package main.Java.com.vetias.java;
+package com.vetias.java;
 
 public class greetings{
     public static void main(String[]args){

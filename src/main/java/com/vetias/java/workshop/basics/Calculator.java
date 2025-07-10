@@ -1,4 +1,4 @@
-package main.Java.com.vetias.java.workshop.basics;
+package com.vetias.java.workshop.basics;
 public class Calculator {
     
     public static void main(String[] args) {
