@@ -1,4 +1,4 @@
-package main.Java.com.vetias.java.workshop.arrays;
+package com.vetias.java.workshop.arrays;
 
 import java.util.Arrays;
 

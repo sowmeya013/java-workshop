@@ -1,5 +1,4 @@
-package main.Java.com.vetias.java.workshop.StandardLibrary;
-import java.io.File;
+package com.vetias.java.workshop.StandardLibrary;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
